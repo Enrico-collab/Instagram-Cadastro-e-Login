@@ -15,6 +15,7 @@ Este projeto foi desenvolvido com o objetivo de recriar a página inicial de cad
 **Layout Similar ao Instagram**: A página inicial segue a estrutura visual e o design do Instagram, com foco no estilo da interface de login e cadastro.
 
 ## Acesse o projeto através do link:
+https://enrico-collab.github.io/Instagram-Cadastro-e-Login/
 
 ## Como rodar o projeto:
 1. Clone o repositório:<br>
@@ -51,6 +52,7 @@ This project was developed with the goal of recreating the Instagram login and r
 **Instagram-Like Layout**: The homepage follows the visual structure and design of Instagram, with a focus on the login and registration interface style.
 
 ## Access the project via the link:
+https://enrico-collab.github.io/Instagram-Cadastro-e-Login/
 
 ## How to Run the Project:
 1. Clone the repository:<br>
