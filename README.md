@@ -31,3 +31,39 @@ npm start
 
 ## Autor
 Enrico Clemente Amoroso
+
+__________________________________________________________________________________________________________
+
+# Login and Registration - Instagram
+This project was developed with the goal of recreating the Instagram login and registration homepage, focusing on both desktop and mobile versions.
+
+## Technologies Used:
+**HTML and CSS**: Used to structure and style the pages, creating an interface visually similar to Instagram's, with a clean and intuitive layout.<br><br>
+**Bootstrap**: Used to ensure the responsiveness of the site, automatically adjusting the layout for different devices.<br><br>
+**Git**: Used for version control and efficient code management throughout the development process.<br><br>
+**GitHub**: Platform used to securely and neatly store the source code.<br><br>
+**GitHub Pages**: Used to host and publish the website for free, making it accessible online.
+
+## Features:
+**Login and Registration Screens**: The project includes login and registration pages with fields for data entry and smooth navigation between the screens.<br><br>
+**Interactive Forms**: Using Bootstrap components, the forms are modern and responsive, ensuring the fields adjust appropriately to the screen size.<br><br>
+**Responsiveness and Adaptive Design**: The design automatically adapts to different screen sizes.<br><br>
+**Instagram-Like Layout**: The homepage follows the visual structure and design of Instagram, with a focus on the login and registration interface style.
+
+## Access the project via the link:
+
+## How to Run the Project:
+1. Clone the repository:<br>
+git clone
+
+2. Navigate to the project folder:<br>
+cd portfolio
+
+3. Install dependencies (if any):<br>
+npm install
+
+4. Run the project locally:<br>
+npm start
+
+## Author
+Enrico Clemente Amoroso
